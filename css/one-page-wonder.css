@@ -12,7 +12,11 @@ body {
     display: block;
     width: 100%;
     text-align: center;
+<<<<<<< HEAD
     background-image: url('.../images/tree.JPG') no-repeat center center scroll;
+=======
+    background-image: url('.../images/tree.JPG') no-repeat center center scroll;
+>>>>>>> master
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
