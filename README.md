@@ -1,6 +1,6 @@
 This is my personal website.
 Visit:
-https://shahshah.com
+https://rahishah.com
 
 or mail me at:
 rahi.shah@columbia.edu
